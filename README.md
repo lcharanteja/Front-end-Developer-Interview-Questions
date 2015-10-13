@@ -100,7 +100,7 @@ This file contains a number of front-end interview questions that can be used wh
 
 #### JS Questions:
 
-* Explain event delegation
+* [Explain event delegation](http://javascript.info/tutorial/event-delegation)
 * Explain how `this` works in JavaScript
 * Explain how prototypal inheritance works
 * What do you think of AMD vs CommonJS?
@@ -143,13 +143,13 @@ duplicate([1,2,3,4,5]); // [1,2,3,4,5,1,2,3,4,5]
 * What are some of the advantages/disadvantages of writing JavaScript code in a language that compiles to JavaScript?
 * What tools and techniques do you use debugging JavaScript code?
 * What language constructions do you use for iterating over object properties and array items?
-* Explain the difference between mutable and immutable objects.
+* [Explain the difference between mutable and immutable objects.](http://www.sitepoint.com/immutability-javascript/)
   * What is an example of an immutable object in JavaScript?
   * What are the pros and cons of immutability?
   * How can you achieve immutability in your own code?
-* Explain the difference between synchronous and asynchronous functions.
-* What is event loop?
-  * What is the difference between call stack and task queue?
+* [Explain the difference between synchronous and asynchronous functions.](http://stackoverflow.com/questions/748175/asynchronous-vs-synchronous-execution-what-does-it-really-mean)
+* [What is event loop?](https://developer.mozilla.org/en-US/docs/Web/JavaScript/EventLoop)
+  * [What is the difference between call stack and task queue?](https://developer.mozilla.org/en-US/docs/Web/JavaScript/EventLoop)
 
 #### Testing Questions:
 

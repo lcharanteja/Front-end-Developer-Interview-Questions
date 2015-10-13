@@ -59,8 +59,8 @@ This file contains a number of front-end interview questions that can be used wh
 * Describe the difference between a `cookie`, `sessionStorage` and `localStorage`.
 * Describe the difference between `<script>`, `<script async>` and `<script defer>`.
 * Why is it generally a good idea to position CSS `<link>`s between `<head></head>` and JS `<script>`s just before `</body>`? Do you know any exceptions?
-* What is progressive rendering?
-* Have you used different HTML templating languages before?
+* [What is progressive rendering?](http://www.ebaytechblog.com/2014/12/08/async-fragments-rediscovering-progressive-html-rendering-with-marko/)
+* [Have you used different HTML templating languages before?](http://www.creativebloq.com/web-design/templating-engines-9134396)
 
 #### CSS Questions:
 

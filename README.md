@@ -66,7 +66,7 @@ This file contains a number of front-end interview questions that can be used wh
 
 * What is the difference between classes and ID's in CSS?
 * What's the difference between "resetting" and "normalizing" CSS? Which would you choose, and why?
-* Describe Floats and how they work.
+* [Describe Floats and how they work.](https://css-tricks.com/all-about-floats/)
 * Describe z-index and how stacking context is formed.
 * Describe BFC(Block Formatting Context) and how it works.
 * What are the various clearing techniques and which is appropriate for what context?
@@ -87,13 +87,13 @@ This file contains a number of front-end interview questions that can be used wh
 * Explain how a browser determines what elements match a CSS selector.
 * Describe pseudo-elements and discuss what they are used for. 
 * Explain your understanding of the box model and how you would tell the browser in CSS to render your layout in different box models.
-* What does ```* { box-sizing: border-box; }``` do? What are its advantages?
+* [What does ```* { box-sizing: border-box; }``` do? What are its advantages?](https://css-tricks.com/box-sizing/)
 * List as many values for the display property that you can remember.
 * What's the difference between inline and inline-block?
 * What's the difference between a relative, fixed, absolute and statically positioned element?
 * The 'C' in CSS stands for Cascading.  How is priority determined in assigning styles (a few examples)?  How can you use this system to your advantage?
 * What existing CSS frameworks have you used locally, or in production? How would you change/improve them?
-* Have you played around with the new CSS Flexbox or Grid specs?
+* [Have you played around with the new CSS Flexbox or Grid specs?](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 * How is responsive design different from adaptive design?
 * Have you ever worked with retina graphics? If so, when and what techniques did you use?
 * Is there any reason you'd want to use `translate()` instead of *absolute positioning*, or vice-versa? And why?
